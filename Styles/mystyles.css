@@ -1,0 +1,34 @@
+h2{
+    font-family: serif
+}
+h3{
+    color: darkgoldenrod;
+}
+
+.mine{
+    color: darkgoldenrod;
+    font-family: cursive;
+    font-size: 24px
+}
+p{
+    text-align: center
+}
+a{
+    color: darkgoldenrod
+}
+.bold {
+    font-weight: bold
+}
+li{
+    font-weight: normal
+}
+.italic{
+    font-style: italic
+}
+.nounder{
+    text-decoration: none
+}
+a:hover{
+    color: darkgray;
+    font-size: 22px
+}

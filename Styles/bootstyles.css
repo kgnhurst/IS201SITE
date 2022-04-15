@@ -1,0 +1,62 @@
+ body{
+                font-family: sans-serif, monospace;
+                font-size: 14p
+            }
+            .italic{
+                font-style: italic
+            }
+            .tabbac {
+                background-image: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpjWAHvDQROgEAJFb30Lq1hrTVyF83-B3KBHQlKuMmH7LlfyHhO5Er_vq75N3Hm1iChwc&usqp=CAU)
+            }
+            .align{
+                text-align: center;
+                color: dimgray
+            }
+            .menu{
+                text-decoration: none;
+                font-size: 18px
+            }
+            .title{
+                font-size: 45px;
+                font-family: serif;
+            }
+            .nounder{
+                text-decoration: none
+            }
+            a:visited{
+                color: darkgoldenrod
+            }
+            a:hover{
+                font-size: 20px;
+                color: dimgray
+                }
+            .header{
+                top: 5px;
+                left: 5px;
+                right: 5px;
+                height: 100px
+            }
+            .body{
+                top: 300;
+                bottom: 68px;
+                left: 500px;
+                right: 500px;
+                width: 100
+            }
+            .footer{
+                bottom: 5px;
+                height: 100px;
+                left: 5px;
+                right: 5px
+                    }
+            .tab{
+                border: solid 50px white;
+                left: 100px;
+                right: 100px
+                width: 400px;
+            }
+            .box {
+                border: solid 5px white;
+                border-color: dimgray
+            }
+            
